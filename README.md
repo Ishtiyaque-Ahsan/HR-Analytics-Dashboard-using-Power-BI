@@ -4,10 +4,9 @@ This Dashboard contains 3 sections :
 
 	Human Resource, R&D and Sales
  
-For each section, it gives information for
+For each section, it gives information for : 
 
 Overall Employees, attrition,Attrition Rate, Avg Age, Avg Salary, Years at Company 
-
 in graphical, tabular and numeric forms.
 
 
